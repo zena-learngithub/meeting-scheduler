@@ -1,0 +1,10 @@
+{
+  "email_config": {
+    "sender_email": "YOUR_EMAIL@gmail.com",
+    "sender_password": "YOUR_APP_PASSWORD",
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "use_tls": true
+  },
+  "note": "Rename this file to 'email_config.json' in the user_data folder after filling in your details"
+}
