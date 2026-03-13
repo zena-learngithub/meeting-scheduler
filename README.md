@@ -1,8 +1,7 @@
 # Meeting Scheduler
 ## Project Team
-Developed collaboratively by:
--ZENAWI 
-- Omer Kamal 
+- Zenawi — Developer
+- Omer Kamal — Developer
 
 A command-line meeting scheduler application with email notifications.
 
